@@ -1,6 +1,12 @@
 <header align="center" style="flex-box">
-  <h1 size="100"> Fala guys, eu sou o Franco </h1>
-  <h2> Hello guys, I'm Franco </h2>
+  <div>
+    <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+    <h1 size="100"> Fala guys, eu sou o Franco </h1>
+  </div>
+  <div>
+    <img align="left" height="30" alt="English Version" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-states_1f1fa-1f1f8.png">
+    <h2> Hello guys, I'm Franco </h2>
+  </div>
 </header>
 
 <main>
@@ -17,13 +23,27 @@
   <aside>
     <div>
       <img align="right" alt="Victor Franco Emoji" height="150" src="https://user-images.githubusercontent.com/93010166/186528630-c6cfa93e-c5ce-4519-ae20-7ea34004d31f.png">
-      <h3>Sobre mim Flag: Brazil on Apple iOS 15.4</h3>
+      <div>
+      <img align="left" height="30" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+      <h3>Sobre mim:</h3>
+      </div>
       <ul>
         <li>Atualmente sou estagiário na Vallourec</li>
         <li>Curso Sistemas de Informação</li>
         <li>Formação de Fundamentos de Programação e Front-End pela Trybe</li>
         <li>Apaixonado por codar</li>
-        <li>Mostro como é a vida de um estudante em tempo integral e estágiario de uma empresa multinacional</li>
+        <li>Mostro como é a vida de um estudante em tempo integral e estágiario de uma empresa multinacional no meu Instagram</li>
+      </ul>
+      <div>
+      <img align="left" height="30" alt="English Version" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-states_1f1fa-1f1f8.png">
+      <h3>About me:</h3>
+      </div>
+      <ul>
+        <li>Currently I'm a intern of Vallourec</li>
+        <li>Studying Information Systems</li>
+        <li>Programming and Front-End Fundamentals Training by Trybe</li>
+        <li>In love with coding</li>
+        <li>I show you what life is like as a full-time student and a multinational company is on my Instagram</li>
       </ul>
     </div>
   </aside>
@@ -34,7 +54,7 @@
     style="flex-box",
     align="center",
   >    
-    <h3>Áreas de conhecimento</h3>
+    <h3>Áreas de conhecimento - Areas of knowledge</h3>
     <br>
     <img align="center" alt="Franco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Franco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -51,7 +71,7 @@
     style="flex-box",
     align="center",
   >
-    <h3>Rede Sociais</h3>
+    <h3>Rede Sociais - Social Midia</h3>
     <a href="https://www.instagram.com/o_franco.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:victorfranco02@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ofrancodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
