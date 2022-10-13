@@ -1,5 +1,6 @@
 <header align="center" style="flex-box">
   <h1 size="100"> Fala guys, eu sou o Franco </h1>
+  <h2> Hello guys, I'm Franco </h2>
 </header>
 
 <main>
@@ -16,7 +17,7 @@
   <aside>
     <div>
       <img align="right" alt="Victor Franco Emoji" height="150" src="https://user-images.githubusercontent.com/93010166/186528630-c6cfa93e-c5ce-4519-ae20-7ea34004d31f.png">
-      <h3>Sobre mim</h3>
+      <h3>Sobre mim Flag: Brazil on Apple iOS 15.4</h3>
       <ul>
         <li>Atualmente sou estagiário na Vallourec</li>
         <li>Curso Sistemas de Informação</li>
