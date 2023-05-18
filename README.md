@@ -1,6 +1,6 @@
 <header align="center" style="flex-box">
   <div>
-    <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+    <img align="left" height="40" alt="Versão Brasileira" src="https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg">
     <h1 size="100"> Fala guys, eu sou o Franco </h1>
   </div>
   <div>
@@ -24,7 +24,7 @@
     <div>
       <img align="right" alt="Victor Franco Emoji" height="150" src="https://user-images.githubusercontent.com/93010166/186528630-c6cfa93e-c5ce-4519-ae20-7ea34004d31f.png">
       <div>
-      <img align="left" height="30" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+      <img align="left" height="30" alt="Versão Brasileira" src="https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg">
       <h3>Sobre mim:</h3>
       </div>
       <ul>
