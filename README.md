@@ -1,10 +1,10 @@
 <header align="center" style="flex-box">
   <div>
-    # <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+    <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
     <h1 size="100"> Fala guys, eu sou o Franco </h1>
   </div>
   <div>
-    <img align="left" height="30" alt="English Version" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-states_1f1fa-1f1f8.png">
+    <img align="left" height="30" alt="English Version" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg">
     <h2> Hello guys, I'm Franco </h2>
   </div>
 </header>
@@ -35,7 +35,7 @@
         <li>Mostro como é a vida de um estudante em tempo integral e estágiario de uma empresa multinacional no meu Instagram</li>
       </ul>
       <div>
-      <img align="left" height="30" alt="English Version" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-united-states_1f1fa-1f1f8.png">
+      <img align="left" height="30" alt="English Version" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg">
       <h3>About me:</h3>
       </div>
       <ul>
