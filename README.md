@@ -66,7 +66,7 @@
     <img align="center" alt="Docker Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="MongoDB Icon" height="30" src="https://img.icons8.com/color/512/mongodb.png">
-    <img align="center" alt="Python" heigth="30" src="https://img.icons8.com/?size=512&id=13441&format=png"
+    <img align="center" alt="Python" height="30" src="https://img.icons8.com/?size=512&id=13441&format=png"
   </div>   
     
   <div
