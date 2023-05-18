@@ -1,6 +1,6 @@
 <header align="center" style="flex-box">
   <div>
-    <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
+    # <img align="left" height="40" alt="Versão Brasileira" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-brazil_1f1e7-1f1f7.png">
     <h1 size="100"> Fala guys, eu sou o Franco </h1>
   </div>
   <div>
