@@ -30,7 +30,7 @@
       <ul>
         <li>Atualmente sou estagiário na Vallourec</li>
         <li>Curso Sistemas de Informação</li>
-        <li>Formação de Fundamentos de Programação e Front-End pela Trybe</li>
+        <li>Formação de Fundamentos de Programação, Front-End e Back-End pela Trybe</li>
         <li>Apaixonado por codar</li>
         <li>Mostro como é a vida de um estudante em tempo integral e estágiario de uma empresa multinacional no meu Instagram</li>
       </ul>
@@ -41,7 +41,7 @@
       <ul>
         <li>Currently I'm a intern of Vallourec</li>
         <li>Studying Information Systems</li>
-        <li>Programming and Front-End Fundamentals Training by Trybe</li>
+        <li>Fundamental Programming, Front-End and Back-End Training by Trybe</li>
         <li>In love with coding</li>
         <li>I show you what life is like as a full-time student and a multinational company is on my Instagram</li>
       </ul>
