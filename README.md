@@ -1,87 +1,70 @@
-<header align="center" style="flex-box">
-  <div>
-    <img align="left" height="40" alt="Versão Brasileira" src="https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg">
-    <h1 size="100"> Fala guys, eu sou o Franco </h1>
-  </div>
-  <div>
-    <img align="left" height="30" alt="English Version" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg">
-    <h2> Hello guys, I'm Franco </h2>
-  </div>
-</header>
-
-<main>
-  <section>
-    <div align="center">
-      <a href="https://github.com/vfranco00">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vfranco00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfranco00&layout=compact&langs_count=7&theme=highcontrast"/>
-    </div>
-  </section>
+<!-- Banner bilíngue -->
+<div align="center">
+  <h1>Fala, pessoal! Eu sou o Franco 👋</h1>
+  <p>Back-End | BI | SAP/ABAP | Infra & Redes | Full-Stack Trybe | IFMG</p>
+  <p><em>Hi there! I'm Franco — Back-End Developer & Systems Analyst</em></p>
+  <br/>
   
-##
-    
-  <aside>
-    <div>
-      <img align="right" alt="Victor Franco Emoji" height="150" src="https://user-images.githubusercontent.com/93010166/186528630-c6cfa93e-c5ce-4519-ae20-7ea34004d31f.png">
-      <div>
-      <img align="left" height="30" alt="Versão Brasileira" src="https://static.todamateria.com.br/upload/ba/nd/bandeiradobrasil-2-cke.jpg">
-      <h3>Sobre mim:</h3>
-      </div>
-      <ul>
-        <li>Atualmente sou estagiário na Vallourec</li>
-        <li>Curso Sistemas de Informação</li>
-        <li>Formação de Fundamentos de Programação, Front-End e Back-End pela Trybe</li>
-        <li>Apaixonado por codar</li>
-        <li>Mostro como é a vida de um estudante em tempo integral e estágiario de uma empresa multinacional no meu Instagram</li>
-      </ul>
-      <div>
-      <img align="left" height="30" alt="English Version" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg">
-      <h3>About me:</h3>
-      </div>
-      <ul>
-        <li>Currently I'm a intern of Vallourec</li>
-        <li>Studying Information Systems</li>
-        <li>Fundamental Programming, Front-End and Back-End Training by Trybe</li>
-        <li>In love with coding</li>
-        <li>I show you what life is like as a full-time student and a multinational company is on my Instagram</li>
-      </ul>
-    </div>
-  </aside>
-    
-##
-    
-  <div
-    style="flex-box",
-    align="center",
-  >    
-    <h3>Áreas de conhecimento - Areas of knowledge</h3>
-    <br>
-    <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="TypeScript Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-    <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Redux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-    <img align="center" alt="NodeJS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Docker Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="MySQL Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="MongoDB Icon" height="30" src="https://img.icons8.com/color/512/mongodb.png">
-    <img align="center" alt="Python" height="30" src="https://img.icons8.com/?size=512&id=13441&format=png"
-  </div>   
-    
-  <div
-    style="flex-box",
-    align="center",
-  >
-    <h3>Rede Sociais - Social Midia</h3>
-    <a href="https://www.instagram.com/o_franco.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:victorfranco02@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ofrancodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   </div>
+  <!-- Badges de contato -->
+  <a href="mailto:victorfranco02@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ofrancodev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/o_franco.dev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
-</main>
+---
 
-##
+## Sobre mim / About me
 
- ![Snake animation](https://github.com/vfranco00/vfranco00/blob/output/github-contribution-grid-snake.svg)
+**PT-BR:**  
+Graduando em **Sistemas de Informação (IFMG)** e formado em **Desenvolvimento Web Full-Stack (Trybe)**. Atuo com **back-end (Node.js, TypeScript, microsserviços)**, **bancos de dados (PostgreSQL, SQL Server, MongoDB)**, **Docker**, **BI (dashboards/KPIs)** e **SAP/ABAP**. Experiência com **SCCM/AD** para tracking/lifecycle de devices e suporte **ITIL/JIRA/ServiceNow**. Fui **Vice-Presidente e Diretor de Marketing** da atlética **Esquadrão (IFMG)**. Curto construir soluções escaláveis, automação de processos e gerar valor para o negócio.
 
+**EN:**  
+Information Systems undergrad (IFMG) and Full-Stack graduate (Trybe). I work with **Back-End (Node.js, TypeScript, microservices)**, **databases (PostgreSQL, SQL Server, MongoDB)**, **Docker**, **BI (dashboards/KPIs)** and **SAP/ABAP**. Experience with **SCCM/AD** for device tracking/lifecycle and **ITIL/JIRA/ServiceNow** support. Former **Vice-President & Marketing Director** at **Esquadrão Athletic Association (IFMG)**. I love building scalable solutions, process automation and delivering business value.
+
+---
+
+## Tech Stack
+
+**Back-End:** Node.js · TypeScript · Express · REST · WebSockets  
+**Front-End:** JavaScript · React · Figma (UI)  
+**Data:** PostgreSQL · SQL Server · MongoDB · Power BI  
+**Infra:** Docker · Linux · Git/GitHub · SCCM · Active Directory · Redes (TCP/IP)  
+**Enterprise:** SAP (ABAP, PP, QM) · ServiceNow · JIRA (dashboards)  
+**Práticas:** Microsserviços · testes · CI/CD · ITIL · Agile/Scrum
+
+<p align="left">
+  <img alt="JavaScript" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img alt="TypeScript" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="Node.js" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img alt="React" height="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img alt="Docker" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="PostgreSQL" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img alt="SQL Server" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img alt="MongoDB" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="SAP" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg"/>
+  <img alt="Python" height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+---
+
+## Destaques recentes
+
+- Back-End para **tracking & lifecycle** de devices integrado a **SCCM** e **Active Directory**  
+- **BI dashboards** para monitoramento e KPIs de inventário  
+- **ABAP** (PP/QM) para correções, melhorias e integrações SAP  
+- Suporte **N1/N2** e **redução de incidentes** com práticas **ITIL**  
+- Projetos **Trybe** full-stack (Front-End/Back-End/CS)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="170" alt="Franco GitHub Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=vfranco00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170" alt="Franco Top Langs" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfranco00&layout=compact&langs_count=8&theme=highcontrast"/>
+</div>
+
+<!-- Snake (commits) -->
+![Snake animation](https://github.com/vfranco00/vfranco00/blob/output/github-contribution-grid-snake.svg)
