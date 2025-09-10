@@ -41,27 +41,21 @@
 ---
 
 ## 📊 GitHub Analytics
-<div>
+<div align="center">
 
-  <!-- Stats -->
+  <!-- 1) Stats + 2) Top Langs (lado a lado) -->
   <img height="170" alt="Franco GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=vfranco00&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
-  <!-- Top Langs -->
   <img height="170" alt="Franco Top Languages"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vfranco00&layout=compact&langs_count=8&theme=highcontrast"/>
-  
-  <!-- Streak -->
-  <img height="170" alt="Franco GitHub Streak"
-       src="https://streak-stats.demolab.com?user=vfranco00&theme=highcontrast&date_format=j%20M%5B%20Y%5D"/>
 
-  <!-- Trophies (opcional, visual forte) -->
-  <img height="120" alt="Franco GitHub Trophies"
-       src="https://github-profile-trophy.vercel.app/?username=vfranco00&theme=onedark&no-frame=true&row=1&column=6"/>
 </div>
 
-> Se algum card não renderizar por limite de requisições, troque `github-readme-stats.vercel.app` por  
-> `github-readme-stats-git-masterrstaa-rickstaa.vercel.app` mantendo os mesmos parâmetros.
+<!-- 3) Streak centralizado -->
+<p align="center">
+  <img height="170" alt="Franco GitHub Streak"
+       src="https://streak-stats.demolab.com?user=vfranco00&theme=highcontrast&date_format=j%20M%5B%20Y%5D"/>
+</p>
 
 ---
 
