@@ -70,6 +70,7 @@
 
 ## 📌 Projetos em destaque
 <!-- 1) Back-end / TypeScript -->
+<div align="center">
 <a href="https://github.com/vfranco00/PerfectCar" target="_blank">
   <img src="https://img.shields.io/badge/PerfectCar-Node.js%20%7C%20TypeScript%20%7C%20API-2ea44f?style=for-the-badge"/>
 </a>
@@ -88,7 +89,7 @@
   <img src="https://img.shields.io/badge/Commerce_MongoDB-Aggregations%20%7C%20Queries%20%7C%20NoSQL-4ea7ff?style=for-the-badge"/>
 </a>
 <br/><sub>Consultas e agregações MongoDB em cenário de e-commerce.</sub>
-
+</div>
 ---
 
 ## 🤝 Vamos conversar?
