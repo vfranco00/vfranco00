@@ -75,17 +75,25 @@
 ---
 
 ## 📌 Projetos em destaque
-<a href="https://github.com/vfranco00" target="_blank">
-  <img src="https://img.shields.io/badge/Back--End%20API-Node.js%20%7C%20TypeScript%20%7C%20Docker-2ea44f?style=for-the-badge"/>
+<!-- 1) Back-end / TypeScript -->
+<a href="https://github.com/vfranco00/PerfectCar" target="_blank">
+  <img src="https://img.shields.io/badge/PerfectCar-Node.js%20%7C%20TypeScript%20%7C%20API-2ea44f?style=for-the-badge"/>
 </a>
-<a href="https://github.com/vfranco00" target="_blank">
-  <img src="https://img.shields.io/badge/BI%20Dashboard-Power%20BI%20%7C%20KPIs%20%7C%20Tracking-yellow?style=for-the-badge"/>
-</a>
-<a href="https://github.com/vfranco00" target="_blank">
-  <img src="https://img.shields.io/badge/SAP%20ABAP-PP%2FQM%20Enhancements-blue?style=for-the-badge"/>
-</a>
+<br/><sub>API em TypeScript/Node para domínio automotivo. Foco em arquitetura limpa e boas práticas.</sub>
 
-> Dica: fixe (Pin) 2–3 repositórios reais com README curto (objetivo, stack, print/gif e link de deploy quando houver).
+<!-- 2) Data/BI / Python -->
+<br/><br/>
+<a href="https://github.com/vfranco00/Jobs_Insights" target="_blank">
+  <img src="https://img.shields.io/badge/Jobs_Insights-Python%20%7C%20Pandas%20%7C%20ETL-yellow?style=for-the-badge"/>
+</a>
+<br/><sub>Análises e filtros sobre vagas: leitura de dados, ETL leve e geração de insights.</sub>
+
+<!-- 3) NoSQL / MongoDB -->
+<br/><br/>
+<a href="https://github.com/vfranco00/Commerce_MongoDB" target="_blank">
+  <img src="https://img.shields.io/badge/Commerce_MongoDB-Aggregations%20%7C%20Queries%20%7C%20NoSQL-4ea7ff?style=for-the-badge"/>
+</a>
+<br/><sub>Consultas e agregações MongoDB em cenário de e-commerce.</sub>
 
 ---
 
