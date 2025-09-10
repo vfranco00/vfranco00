@@ -41,7 +41,7 @@
 ---
 
 ## 📊 GitHub Analytics
-<div align="center">
+<div>
 
   <!-- Stats -->
   <img height="170" alt="Franco GitHub Stats"
