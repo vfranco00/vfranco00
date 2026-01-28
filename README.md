@@ -62,5 +62,5 @@ Sou **Engenheiro de Software** e **Desenvolvedor Backend** com experiência em a
 </div>
 
 <div align="center">
-  <img src="https://github.com/vfranco00/vfranco00/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
