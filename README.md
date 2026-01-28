@@ -58,7 +58,7 @@ Sou **Engenheiro de Software** e **Desenvolvedor Backend** com experiência em a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfranco00&repo=NOME-DO-SEU-MELHOR-REPO&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vfranco00&repo=NutriAgent&theme=dracula" />
 </div>
 
 <div align="center">
