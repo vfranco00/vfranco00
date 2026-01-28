@@ -64,3 +64,7 @@ Sou **Engenheiro de Software** e **Desenvolvedor Backend** com experiência em a
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vfranco00&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vfranco00&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</div>
