@@ -3,7 +3,7 @@
 <a href="https://github.com/vfranco00">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Victor+Franco;Full+Stack+Developer;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+Tailwind" alt="Victor Franco — Full Stack Developer"/>
 </a>
-
+<br></br>
 <img src="https://img.shields.io/badge/📍_Ouro_Branco,_MG-0d1117?style=flat-square&logoColor=white" alt="Localização"/>
 <img src="https://img.shields.io/badge/🎓_Sistemas_de_Informação-IFMG-0d1117?style=flat-square" alt="Formação"/>
 <img src="https://img.shields.io/badge/🌐_Inglês_Fluente_(C2)-0d1117?style=flat-square" alt="Idiomas"/>
