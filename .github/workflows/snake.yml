@@ -1,26 +1,55 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 3 * * *" # todo dia às 03:00 UTC (00:00 em Brasília)
+  workflow_dispatch: # permite rodar manualmente na aba Actions
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+# Impede que duas execuções escrevam na branch "output" ao mesmo tempo.
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
 
 jobs:
   build:
+    name: Gerar e publicar assets
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      # Snake da grade de contribuições, em versão clara, escura e gif.
+      - name: Gerar snake das contribuições
+        uses: Platane/snk@v3.5.0
         with:
-          github_user_name: vfranco00
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/snake-light.svg?palette=github-light
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?palette=github-dark&color_snake=#38bdf8
+
+      # Grade de contribuições em perspectiva isométrica 3D.
+      # Configurada por variáveis de ambiente: a action não expõe inputs.
+      - name: Gerar contribuições em 3D
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # A action 3D escreve em profile-3d-contrib/; o snake escreve em dist/.
+      # Unificamos tudo em dist/ para publicar em um único push.
+      - name: Consolidar assets em dist/
+        run: cp profile-3d-contrib/*.svg dist/
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: atualiza assets do perfil"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
