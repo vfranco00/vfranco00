@@ -20,7 +20,7 @@ jobs:
     name: Gerar e publicar assets
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # Snake da grade de contribuições, em versão clara, escura e gif.
       - name: Gerar snake das contribuições
@@ -42,8 +42,15 @@ jobs:
 
       # A action 3D escreve em profile-3d-contrib/; o snake escreve em dist/.
       # Unificamos tudo em dist/ para publicar em um único push.
+      #
+      # Platane/snk é uma action Docker: roda como root e cria dist/ com dono
+      # root. Este passo roda como o usuário "runner", que sem o chown recebe
+      # "Permission denied" ao copiar os SVGs 3D para dentro de dist/.
       - name: Consolidar assets em dist/
-        run: cp profile-3d-contrib/*.svg dist/
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
+          cp profile-3d-contrib/*.svg dist/
+          ls -la dist/
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v5
