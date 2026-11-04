@@ -1,9 +1,11 @@
 <div align="center">
 
-<a href="https://github.com/vfranco00">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Victor+Franco;Full+Stack+Developer;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Supabase+%E2%80%A2+Tailwind" alt="Victor Franco — Full Stack Developer"/>
-</a>
-<br></br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"/>
+  <img src="./assets/header-dark.svg" alt="Victor Franco — Full Stack Developer" width="100%"/>
+</picture>
+<br/><br/>
 <img src="https://img.shields.io/badge/📍_Ouro_Branco,_MG-0d1117?style=flat-square&logoColor=white" alt="Localização"/>
 <img src="https://img.shields.io/badge/🎓_Sistemas_de_Informação-IFMG-0d1117?style=flat-square" alt="Formação"/>
 <img src="https://img.shields.io/badge/🌐_Inglês_Fluente_(C2)-0d1117?style=flat-square" alt="Idiomas"/>
@@ -111,22 +113,22 @@ decisão arquitetural.
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/vfranco00?style=for-the-badge&color=38BDF8&labelColor=0d1117&logo=github&logoColor=white" alt="Seguidores"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/stats-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/stats-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/stats-dark.svg" alt="Estatísticas no GitHub" width="49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/langs-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/langs-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/langs-dark.svg" alt="Linguagens mais usadas" width="49%"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=vfranco00&theme=github-dark&hide_border=true&border_radius=10&background=0d1117&stroke=30363d&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=vfranco00&theme=github-dark&hide_border=true&border_radius=10&background=0d1117&stroke=30363d&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" alt="Sequência de contribuições" width="99%"/>
+
+<sub>Cards de estatísticas e linguagens gerados diariamente por <a href=".github/workflows/snake.yml">GitHub Actions</a> direto da API do GitHub — sem serviços de terceiros.</sub>
 
 </div>
-
-<!--
-NOTA SOBRE CARDS DE TERCEIROS
-Os cards de stats/top-langs (github-readme-stats.vercel.app), troféus
-(github-profile-trophy.vercel.app) e activity graph
-(github-readme-activity-graph.vercel.app) foram removidos: as instâncias públicas
-respondem DEPLOYMENT_PAUSED / DEPLOYMENT_DISABLED, ou seja, estão fora do ar por
-decisão dos donos — não é rate limit passageiro.
-Para reativá-los, faça deploy da sua própria instância:
-https://github.com/anuraghazra/github-readme-stats
--->
 
 ## 🐍 Contribuições
 
@@ -161,19 +163,41 @@ contribuições. Alterna sozinho entre tema claro e escuro.
 
 ## 🚀 Projetos em Destaque
 
-Linguagem, stars e data do último commit são lidos ao vivo do GitHub.
+<div align="center">
 
-| Projeto | Linguagem | Stars | Último commit |
-|---------|-----------|-------|---------------|
-| **[Nutri_Agent](https://github.com/vfranco00/Nutri_Agent)** | <img src="https://img.shields.io/github/languages/top/vfranco00/Nutri_Agent?style=flat-square&labelColor=0d1117&color=38BDF8" alt="Linguagem"/> | <img src="https://img.shields.io/github/stars/vfranco00/Nutri_Agent?style=flat-square&labelColor=0d1117&color=818CF8" alt="Stars"/> | <img src="https://img.shields.io/github/last-commit/vfranco00/Nutri_Agent?style=flat-square&labelColor=0d1117&color=8b949e" alt="Último commit"/> |
-| **[DataCost-Governance](https://github.com/vfranco00/DataCost-Governance)** | <img src="https://img.shields.io/github/languages/top/vfranco00/DataCost-Governance?style=flat-square&labelColor=0d1117&color=38BDF8" alt="Linguagem"/> | <img src="https://img.shields.io/github/stars/vfranco00/DataCost-Governance?style=flat-square&labelColor=0d1117&color=818CF8" alt="Stars"/> | <img src="https://img.shields.io/github/last-commit/vfranco00/DataCost-Governance?style=flat-square&labelColor=0d1117&color=8b949e" alt="Último commit"/> |
-| **[Detecao-de-Tumores-Cerebrais-IA](https://github.com/vfranco00/Detecao-de-Tumores-Cerebrais-IA)** | <img src="https://img.shields.io/github/languages/top/vfranco00/Detecao-de-Tumores-Cerebrais-IA?style=flat-square&labelColor=0d1117&color=38BDF8" alt="Linguagem"/> | <img src="https://img.shields.io/github/stars/vfranco00/Detecao-de-Tumores-Cerebrais-IA?style=flat-square&labelColor=0d1117&color=818CF8" alt="Stars"/> | <img src="https://img.shields.io/github/last-commit/vfranco00/Detecao-de-Tumores-Cerebrais-IA?style=flat-square&labelColor=0d1117&color=8b949e" alt="Último commit"/> |
-| **[NutriPlanner](https://github.com/vfranco00/NutriPlanner)** | <img src="https://img.shields.io/github/languages/top/vfranco00/NutriPlanner?style=flat-square&labelColor=0d1117&color=38BDF8" alt="Linguagem"/> | <img src="https://img.shields.io/github/stars/vfranco00/NutriPlanner?style=flat-square&labelColor=0d1117&color=818CF8" alt="Stars"/> | <img src="https://img.shields.io/github/last-commit/vfranco00/NutriPlanner?style=flat-square&labelColor=0d1117&color=8b949e" alt="Último commit"/> |
+<a href="https://github.com/vfranco00/Nutri_Agent">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Nutri_Agent-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Nutri_Agent-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Nutri_Agent-dark.svg" alt="Nutri_Agent" width="49%"/>
+</picture>
+</a>
+<a href="https://github.com/vfranco00/DataCost-Governance">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-DataCost-Governance-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-DataCost-Governance-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-DataCost-Governance-dark.svg" alt="DataCost-Governance" width="49%"/>
+</picture>
+</a>
+<br/>
+<a href="https://github.com/vfranco00/Detecao-de-Tumores-Cerebrais-IA">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Detecao-de-Tumores-Cerebrais-IA-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Detecao-de-Tumores-Cerebrais-IA-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-Detecao-de-Tumores-Cerebrais-IA-dark.svg" alt="Detecao-de-Tumores-Cerebrais-IA" width="49%"/>
+</picture>
+</a>
+<a href="https://github.com/vfranco00/NutriPlanner">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-NutriPlanner-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-NutriPlanner-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/output/project-NutriPlanner-dark.svg" alt="NutriPlanner" width="49%"/>
+</picture>
+</a>
 
-<!--
-Estes repositórios estão sem `description` no GitHub. Preencher a descrição de
-cada um melhora tanto esta seção quanto a busca do GitHub.
--->
+<sub>Descrição, linguagem, stars e última atualização lidas da API do GitHub todo dia.</sub>
+
+</div>
 
 ---
 

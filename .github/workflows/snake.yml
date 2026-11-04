@@ -50,6 +50,14 @@ jobs:
         run: |
           sudo chown -R "$(id -u):$(id -g)" dist
           cp profile-3d-contrib/*.svg dist/
+
+      # Cards de estatísticas, linguagens e projetos, gerados pela API GraphQL
+      # do GitHub. Substituem os serviços públicos que saíram do ar.
+      - name: Gerar cards do perfil
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/generate_cards.py "${{ github.repository_owner }}" dist/
           ls -la dist/
 
       - name: Publicar na branch output
