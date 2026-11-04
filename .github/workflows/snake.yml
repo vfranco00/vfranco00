@@ -50,7 +50,19 @@ jobs:
         run: |
           sudo chown -R "$(id -u):$(id -g)" dist
           cp profile-3d-contrib/*.svg dist/
-          ls -la dist/
+
+      # Cards de estatísticas, linguagens e projetos, gerados pela API GraphQL
+      # do GitHub. Substituem os serviços públicos que saíram do ar.
+      # Se a API falhar, o snake e o 3D continuam sendo publicados.
+      - name: Gerar cards do perfil
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/generate_cards.py "${{ github.repository_owner }}" dist/
+
+      - name: Listar assets
+        run: ls -la dist/
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v5
