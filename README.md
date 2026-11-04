@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"/>
-  <img src="./assets/header-dark.svg" alt="Victor Franco — Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/header-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/header-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/header-dark.svg" alt="Victor Franco — Full Stack Developer" width="100%"/>
 </picture>
 <br/><br/>
 <img src="https://img.shields.io/badge/📍_Ouro_Branco,_MG-0d1117?style=flat-square&logoColor=white" alt="Localização"/>
