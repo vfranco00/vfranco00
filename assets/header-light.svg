@@ -84,13 +84,14 @@
     <text class="role" x="80" y="176" style="animation-delay:0s;animation-duration:12s">Full Stack Developer</text>
     <text class="role" x="80" y="176" style="animation-delay:3s;animation-duration:12s">TypeScript • Next.js • Supabase</text>
     <text class="role" x="80" y="176" style="animation-delay:6s;animation-duration:12s">Dados, Automação e APIs</text>
-    <text class="role" x="80" y="176" style="animation-delay:9s;animation-duration:12s">Construindo com IA no fluxo</text>
+    <text class="role" x="80" y="176" style="animation-delay:9s;animation-duration:12s">LLMs • Prompts • MCP • Claude Code</text>
 
     <g class="chip" style="animation-delay:0.90s"><rect x="80" y="206" width="79" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="120" y="226" text-anchor="middle" class="chip-t">Next.js</text></g>
     <g class="chip" style="animation-delay:1.02s"><rect x="169" y="206" width="104" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="221" y="226" text-anchor="middle" class="chip-t">TypeScript</text></g>
     <g class="chip" style="animation-delay:1.14s"><rect x="283" y="206" width="88" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="327" y="226" text-anchor="middle" class="chip-t">Supabase</text></g>
     <g class="chip" style="animation-delay:1.26s"><rect x="381" y="206" width="71" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="417" y="226" text-anchor="middle" class="chip-t">Python</text></g>
-    <g class="chip" style="animation-delay:1.38s"><rect x="462" y="206" width="47" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="486" y="226" text-anchor="middle" class="chip-t">AWS</text></g>
+    <g class="chip" style="animation-delay:1.38s"><rect x="462" y="206" width="112" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="518" y="226" text-anchor="middle" class="chip-t">Claude Code</text></g>
+    <g class="chip" style="animation-delay:1.50s"><rect x="584" y="206" width="47" height="30" rx="15" fill="#f6f8fa" stroke="#d0d7de"/><text x="608" y="226" text-anchor="middle" class="chip-t">MCP</text></g>
   </g>
   <rect x="0.5" y="0.5" width="999" height="279" rx="18" fill="none" stroke="#d0d7de"/>
 </svg>

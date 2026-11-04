@@ -35,12 +35,16 @@ franco@dev:~$ cat about.json
   "formacao":   "Sistemas de Informação @ IFMG",
   "idiomas":    ["pt-BR (nativo)", "en (C2)"],
   "stack_atual":["Next.js", "TypeScript", "Supabase", "Tailwind CSS"],
-  "background": ["Python", "Dados", "Automação", "AWS", "APIs"]
+  "background": ["Python", "Dados", "Automação", "AWS", "APIs"],
+  "ia":         ["Claude Code", "MCP", "LLMs", "Prompt Engineering", "RAG"]
 }
 
 franco@dev:~$ ./journey.sh
 → Gerdau & Vallourec ....... APIs robustas, pipelines ETL, sistemas de dados
 → hoje .................... web moderna, do pixel perfeito à query otimizada
+
+franco@dev:~$ claude "implemente a próxima feature"
+✓ planejada, implementada, testada e com PR aberto
 
 franco@dev:~$ echo $PHILOSOPHY
 "Código limpo é poesia. Arquitetura sólida é a rima."
@@ -55,19 +59,81 @@ ecossistema web moderno.
 
 ---
 
-## 🤖 Workflow com IA
+## 🤖 IA & LLMs no Desenvolvimento
 
-Uso **Claude Code** diariamente como copiloto no desenvolvimento:
+IA não é enfeite no meu fluxo: é parte da engenharia. Uso **Claude Code** todos os dias,
+conecto ferramentas reais via **MCP** e trato **prompts** como código — versionados,
+testados e revisados.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/ai-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/ai-light.svg"/>
+  <img src="https://raw.githubusercontent.com/vfranco00/vfranco00/main/assets/ai-dark.svg" alt="Sessão de Claude Code usando MCP para criar uma feature" width="100%"/>
+</picture>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-38BDF8?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/RAG_%26_Agents-818CF8?style=for-the-badge&logoColor=white" alt="RAG & Agents"/>
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ Claude Code no dia a dia**
 
 - **Arquitetura de features** — desenho de módulos e fronteiras de domínio
-- **Refatoração de código** — eliminação de dívida técnica com contexto do repo
-- **Geração de testes** — cobertura de edge cases e caminhos de falha
-- **Documentação técnica** — ADRs, contratos de API e READMEs
+- **Refatoração** — eliminação de dívida técnica com contexto do repo inteiro
+- **Testes** — cobertura de edge cases e caminhos de falha
+- **Documentação** — ADRs, contratos de API e READMEs
+- **Code review** — segunda opinião antes de cada merge
+
+</td>
+<td width="50%" valign="top">
+
+**🔌 MCP — Model Context Protocol**
+
+- Conecto o agente a **Supabase**, **GitHub** e APIs internas
+- O modelo consulta schema, abre PRs e lê issues **com contexto real**
+- Servidores MCP próprios para expor ferramentas do projeto
+- Menos copiar e colar, mais automação com segurança
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 LLMs em produto**
+
+- **[NutriAgent](https://github.com/vfranco00/Nutri_Agent)** — planejamento nutricional com **Gemini**
+- Saídas estruturadas (JSON) validadas antes de chegar ao usuário
+- Pipelines com **RAG** e agentes com *tool use*
+- Atenção a custo por token, latência e *fallbacks*
+
+</td>
+<td width="50%" valign="top">
+
+**✍️ Prompts como código**
+
+- System prompts versionados junto com o repositório
+- Few-shot e exemplos negativos para reduzir alucinação
+- Avaliação com casos de teste antes de trocar modelo ou prompt
+- `CLAUDE.md`, skills e hooks para padronizar o agente no time
+
+</td>
+</tr>
+</table>
 
 > *"Eu sou o arquiteto. Claude é o construtor."*
-
-A IA acelera minha produtividade sem substituir o pensamento crítico e a tomada de
-decisão arquitetural.
+> A IA acelera a entrega; pensamento crítico e decisão arquitetural continuam sendo meus.
 
 ---
 
